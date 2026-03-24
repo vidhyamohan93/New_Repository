@@ -1,4 +1,4 @@
-
+// it is an age calculator 
 name = input("Enter your name")
 age = int(input("Enter your age"))
 
